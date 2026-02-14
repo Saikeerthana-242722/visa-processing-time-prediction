@@ -1,0 +1,4 @@
+
+Project: AI Visa Processing Time Prediction
+
+Built ML model predicting visa timelines using Random Forest.

@@ -1,0 +1,4 @@
+
+Architecture:
+
+Dataset → Preprocessing → ML Model → API → Web App → User

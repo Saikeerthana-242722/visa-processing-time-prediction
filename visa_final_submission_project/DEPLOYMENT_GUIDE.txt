@@ -1,0 +1,6 @@
+
+Deployment Steps:
+
+1. Train model
+2. Build Docker image
+3. Deploy on AWS/Azure

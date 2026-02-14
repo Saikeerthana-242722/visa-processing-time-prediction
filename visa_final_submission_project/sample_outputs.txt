@@ -1,0 +1,20 @@
+
+Sample Prediction Outputs
+
+Input:
+Visa Class: H1B
+Case Status: Certified
+Worksite: Texas
+Year: 2013
+
+Predicted Processing Time: 47 Days
+
+----------------------------------
+
+Input:
+Visa Class: L1
+Case Status: Approved
+Worksite: California
+Year: 2012
+
+Predicted Processing Time: 52 Days
